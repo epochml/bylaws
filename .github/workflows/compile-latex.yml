@@ -14,7 +14,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "Compile LaTex" -a
+          git commit -m "Auto-compile LaTex" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
