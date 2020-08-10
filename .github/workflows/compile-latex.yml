@@ -1,0 +1,27 @@
+name: Build LaTeX document
+on: [push]
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: main.tex
+      - name: Commit to repo
+        run: |
+          if ! git diff --no-ext-diff --quiet --exit-code; then
+            git add .
+            git config --local user.email "tip@gha"
+            git config --local user.name "GHA"
+            git commit -a -m "Compile LaTeX"
+            git remote set-url origin "$(git config --get remote.origin.url | sed 's#http.*com/#git@github.com:#g')"
+            eval `ssh-agent -t 60 -s`
+            echo "$GHA_DEPLOY_KEY" | ssh-add -
+            mkdir -p ~/.ssh/
+            ssh-keyscan github.com >> ~/.ssh/known_hosts
+            git push
+            ssh-agent -k
+          fi
