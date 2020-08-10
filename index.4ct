@@ -1,0 +1,13 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Definition of Terms}}{3}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{Purpose}}{3}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-3}{Management Divisions}}{3}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-40003}{QQ2-1-4}{Membership and Board Structure}}{4}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-50004}{QQ2-1-5}{Meetings}}{5}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-60005}{QQ2-1-6}{Subcommittees, Subteams, and Classes}}{6}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-70006}{QQ2-1-7}{Procedure and Ethics}}{6}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-80007}{QQ2-1-8}{Advisors}}{8}\relax 
+\doTocEntry\tocsection{8}{\csname a:TocLink\endcsname{1}{x1-90008}{QQ2-1-9}{System Administrators and the Cluster}}{8}\relax 
+\doTocEntry\tocsection{9}{\csname a:TocLink\endcsname{1}{x1-100009}{QQ2-1-10}{Adoption and Amendment}}{9}\relax 
+\doTocEntry\tocsection{10}{\csname a:TocLink\endcsname{1}{x1-1100010}{QQ2-1-11}{Changelog}}{10}\relax 
+\par 
