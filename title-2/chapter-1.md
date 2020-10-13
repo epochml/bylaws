@@ -17,13 +17,24 @@ author:
 ## §2. Purpose of this Document
 
 1.  This document is intended to define the Epoch document
-    classification system for Epoch documents.
+    classification system for Epoch documents. These documents include, 
+    but are not limited to:
+
+    - Written memorandums
+
+    - E-mails
+    
+    - Reports
+
+    - Notices
+
+    - Forms
 
 ## §3. Applicability
 
 The policies outlined in this document apply to any persons affiliated
-with Epoch while acting in their official capacity as a member of Epoch,
-including but not limited to:
+with Epoch while acting in their official capacity as a member of Epoch. 
+These persons include, but are not limited to:
 
 -   Epoch Members
 
