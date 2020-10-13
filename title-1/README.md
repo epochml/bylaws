@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Main
+# Title 1
 
 {% include list.liquid %}
