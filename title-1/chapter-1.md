@@ -79,17 +79,18 @@ author:
 4.  Epoch must have a Board of Directors (\"Board\"), consisting of a
     Chief Executive Officer (CEO), a Chief Technical Officer (CTO), a
     Chief Systems Officer (CSO), a Systems Head Admin (SHA), a Chief
-    Relations Officer (CRO), and a Chief Financial Officer (CFO).
+    Relations Officer (CRO), Chief Financial Officer (CFO), and a Chief
+    Curriculum Officer (CCO).
 
     1.  While the Board is only defined as the Main Board and does not
         include Shadow Board members, the Main Board members may choose
         to involve their shadows in Board actions.
 
 5.  The CTO, CSO, and SHA shall be affiliated with the Technical
-    Division, the CRO shall be affiliated with the Relations
+    Division, the CRO and CCO shall be affiliated with the Relations
     Division, and the CFO shall be affiliated with the Business
     Division. The CEO, as head of Epoch, must be unaffiliated with any
-    subdivision. 
+    subdivision.
 
 6.  The officers who are affiliated with a division shall be in charge
     of leading that division.
@@ -119,9 +120,10 @@ author:
     of votes. The Technical division shall have three (3) votes, with
     each of the CTO, CSO, and SHA allocated one (1) vote. The business
     team shall have one (1) vote, with the CFO allocated one (1) vote.
-    The relations team shall have one (1) vote, with the CRO assigned one (1) vote. 
-    The CEO shall have one (1) vote. In the event that a Board position cannot be filled, 
-    the remaining votes must be split evenly among the members of the division.
+    The relations team shall have two (2) votes, with each of the CEO
+    and CCO assigned one (1) vote. The CEO shall have one (1) vote. In
+    the event that a Board position cannot be filled, the remaining
+    votes must be split evenly among the members of the division.
 
     1.  In the event of a tie, the decision with the vote of the senior
         officer in that division shall break the tie. Extend this
@@ -365,4 +367,3 @@ author:
 ## Changelog
 
 1.  Adopted: Aug 5, 2020
-2.  Amended: Nov 21, 2020
