@@ -34,8 +34,9 @@ The Epoch CEO or the Epoch CFO must approve this purchase. If this approval is n
 If this approval is granted, the Epoch CFO, Epoch CEO, or the management division leader must meet with the Epoch Staff Advisor to get the Staff Advisor's approval.
 If the Epoch Staff Advisor does not grant this approval, the purchase shall not occur.
 
-If the Epoch Staff Advisor does grant this approval, the Epoch Staff Advisor will execute the purchase or will contact the neccessary persons to execute the purpose.
+If the Epoch Staff Advisor does grant this approval, the Epoch Staff Advisor will execute the purchase or will contact the neccessary persons to execute the purchase.
 
 ## Changelog
 
 1.  Adopted: December 27, 2020
+2.  Amended: December 30, 2020
