@@ -1,10 +1,10 @@
 ---
 permalink: /title-2/chapter-1
-title: Title 2, Chapter 1 - Document Security
+title: Title 2, Chapter 1 - Information Security
 author:
 - The Epoch Board of Directors
 ---
-# Title 2, Chapter 1 - Document Security
+# Title 2, Chapter 1 - Information Security
 
 ## §1. Definition of Terms
 
@@ -16,8 +16,8 @@ author:
 
 ## §2. Purpose of this Document
 
-1.  This document is intended to define the Epoch document
-    classification system for Epoch documents. These documents include, 
+1.  This document is intended to define the Epoch information
+    classification system for Epoch data and systems. These documents include, 
     but are not limited to:
 
     - Written memorandums
@@ -32,7 +32,7 @@ author:
 
 ## §3. Applicability
 
-The policies outlined in this document apply to any persons affiliated
+The policies outlined shall apply to any persons affiliated
 with Epoch while acting in their official capacity as a member of Epoch. 
 These persons include, but are not limited to:
 
@@ -46,6 +46,10 @@ These persons include, but are not limited to:
 
 -   Epoch Advisors
 
+## §4. Authority to Classify and Enforce
+The authority to classify systems or data into security groups, as well as enforce security policies for each of these classification categories, is hereby granted to the Epoch Technical Team or its designee.
+
+
 ## Changelog
 
-1.  Proposed: October 31, 2020
+1.  Proposed: February 17, 2020
