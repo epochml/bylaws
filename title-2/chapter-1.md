@@ -25,6 +25,8 @@ author:
 - Reports
 - Notices
 - Forms
+- Source code
+- Research information
 
 ## §3. Applicability
 
