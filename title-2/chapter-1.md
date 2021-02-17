@@ -20,15 +20,11 @@ author:
     classification system for Epoch data and systems. These documents include, 
     but are not limited to:
 
-    - Written memorandums
-
-    - E-mails
-    
-    - Reports
-
-    - Notices
-
-    - Forms
+- Written memorandums
+- E-mails
+- Reports
+- Notices
+- Forms
 
 ## §3. Applicability
 
