@@ -47,6 +47,7 @@ Examples of low risk systems may include, but are not limited to, the following:
 * Epoch Wiki
 * Helpdesk tickets, excluding account issuance
 * monday.com
+* Link Shortener
 
 ### §3.2 Definition of Medium Risk data and systems
 
@@ -91,7 +92,7 @@ Examples of high risk data may include, but are not limited to, the following:
 * Export controlled information 
 * Epoch credentials with access to medium or high-risk information
 
-Examples of medium risk systems may include, but are not limited to, the following: 
+Examples of high risk systems may include, but are not limited to, the following: 
 
 * FreeIPA
 * Bitwarden
