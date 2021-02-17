@@ -95,3 +95,7 @@ Examples of medium risk systems may include, but are not limited to, the followi
 
 * FreeIPA
 * Bitwarden
+
+## Changelog
+
+1.  Proposed: February 17, 2020
