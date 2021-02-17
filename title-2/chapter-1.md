@@ -33,18 +33,16 @@ author:
 ## §3. Applicability
 
 The policies outlined shall apply to any persons affiliated
-with Epoch while acting in their official capacity as a member of Epoch. 
+with Epoch while acting in their official capacity as a member or affiliate of Epoch, 
+as well as to any persons that have access to non-public Epoch information. 
 These persons include, but are not limited to:
 
 -   Epoch Members
-
 -   Epoch Senior Board Members
-
 -   Epoch Shadow Board Members
-
 -   Epoch Certified Advisors
-
 -   Epoch Advisors
+-   Epoch Board Emeritus Members
 
 ## §4. Authority to Classify and Enforce
 The authority to classify systems into security groups, as well as enforce security policies for data or systems in each of these classification categories, is hereby granted to the Epoch Technical Team or its designee. The authority to classify data into security groups, as well as enforce security policies for each of these classification categories, is hereby granted to the leader of the Epoch team within which the data was generated or acquired.
