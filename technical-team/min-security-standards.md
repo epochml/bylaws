@@ -1,6 +1,6 @@
 ---
 permalink: /technical-team/min-security-standards
-title: Technical Team Policies - Minimum Security Standards
+title: Minimum Security Standards
 author:
 - Epoch Technical Team
 ---
