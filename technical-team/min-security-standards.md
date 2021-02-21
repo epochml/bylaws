@@ -1,5 +1,5 @@
 ---
-permalink: /technical/min-security-standards
+permalink: /technical-team/min-security-standards
 title: Technical Team Policies - Minimum Security Standards
 author:
 - Epoch Technical Team
@@ -21,4 +21,4 @@ Epoch Bylaws - Title 2, Chapter 1
 
 ## Changelog
 
-1.  Proposed: February 17, 2020
+1.  Adopted: February 20, 2020
