@@ -17,16 +17,7 @@ author:
 ## §2. Purpose of this Document
 
 1.  This document is intended to define the Epoch information
-    classification system for Epoch data and systems. These documents include, 
-    but are not limited to:
-
-- Written memorandums
-- E-mails
-- Reports
-- Notices
-- Forms
-- Source code
-- Research information
+    classification system for Epoch data and systems. Data and systems shall be defined by the Epoch Technical Team.
 
 ## §3. Applicability
 
@@ -48,4 +39,4 @@ The authority to classify systems into security groups, as well as enforce secur
 
 ## Changelog
 
-1.  Proposed: February 17, 2020
+1.  Proposed: February 20, 2020
