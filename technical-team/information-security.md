@@ -99,4 +99,4 @@ Examples of high risk systems may include, but are not limited to, the following
 
 ## Changelog
 
-1.  Proposed: February 17, 2020
+1.  Adopted: February 20, 2020
