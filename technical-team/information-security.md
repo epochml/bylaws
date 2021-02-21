@@ -1,6 +1,6 @@
 ---
 permalink: /technical-team/infosec
-title: Technical Team Policies - Information Security
+title: Information Security
 author:
 - Epoch Technical Team
 ---
