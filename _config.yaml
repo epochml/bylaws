@@ -20,7 +20,7 @@ lang                     : "en-US"
 name                     : "Epoch Bylaws"
 description              : "Site to view the Epoch Bylaws"
 url                      : "https://epochml.org"
-baseurl                  : "/bylaws"
+baseurl                  : "/"
 repository               : "epochml/bylaws"
 edit: true
 author: "The Epoch Board of Directors"
