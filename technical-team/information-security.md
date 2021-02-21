@@ -1,5 +1,5 @@
 ---
-permalink: /technical/infosec
+permalink: /technical-team/infosec
 title: Technical Team Policies - Information Security
 author:
 - Epoch Technical Team
