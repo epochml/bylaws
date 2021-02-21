@@ -19,7 +19,7 @@ title                    : "Epoch Bylaws"
 lang                     : "en-US"
 name                     : "Epoch Bylaws"
 description              : "Site to view the Epoch Bylaws"
-url                      : "https://epochml.org"
+url                      : "https://bylaws.epochml.org"
 baseurl                  : "/"
 repository               : "epochml/bylaws"
 edit: true
