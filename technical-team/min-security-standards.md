@@ -77,10 +77,14 @@ All of the above policies, plus:
 * Confer with leaders of the Epoch Technical Team before any changes are made to the applications, or before any high-risk systems are deployed.
 
 
-[^1]: Encryption must meet NIST-approved standards to protect Epoch's data. Encryption keys/passwords must be properly managed. In particular, secret cryptographic keys must not be stored or transmitted along with the data they protect. Cryptographic keys have the same classification as the most sensitive data they protect.
-
 
 ## Changelog
 
 1.  Adopted: February 20, 2020
 2.  Amended: February 21, 2020
+
+
+## Notes
+
+[^1]: Encryption must meet NIST-approved standards to protect Epoch's data. Encryption keys/passwords must be properly managed. In particular, secret cryptographic keys must not be stored or transmitted along with the data they protect. Cryptographic keys have the same classification as the most sensitive data they protect.
+
