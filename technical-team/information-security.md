@@ -72,7 +72,7 @@ Examples of medium risk systems may include, but are not limited to, the followi
 
 * Epoch Cluster
 * Account issuance helpdesk tickets
-* Keycloak 
+* Azure AD 
 * MaaS
 
 
@@ -94,9 +94,10 @@ Examples of high risk data may include, but are not limited to, the following:
 
 Examples of high risk systems may include, but are not limited to, the following: 
 
-* FreeIPA
+* Active Directory
 * Bitwarden
 
 ## Changelog
 
-1.  Adopted: February 20, 2020
+1.  Adopted: February 20, 2021
+2.  Amended: March 18, 2021
