@@ -101,10 +101,10 @@ author:
 
     1.  Extensions may be granted by a supermajority vote of the Board.
 
-8.  Shadows shall be appointed by the Board officer with the advice and
-    consent of the full Board and the Officer's division. The Shadow CEO
-    shall be chosen by the current CEO and be certified by a vote of all
-    active Epoch student members. A Shadow must be a Sophomore or Junior
+8.  Shadow board members shall be selected by the respective Board officer and
+    certified by a vote of the Board, as well as the Officer's division. 
+    The Shadow CEO shall be chosen by the current CEO and be certified by a vote
+    of all active Epoch student members. A Shadow must be a Sophomore or Junior
     when they are instated.
 
 9.  If a officer of the Board leaves Epoch (or graduates from IMSA),
