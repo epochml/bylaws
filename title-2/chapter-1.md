@@ -39,4 +39,4 @@ The authority to classify systems into security groups, as well as enforce secur
 
 ## Changelog
 
-1.  Proposed: February 20, 2020
+1.  Adopted: February 20, 2020
