@@ -97,7 +97,11 @@ Examples of high risk systems may include, but are not limited to, the following
 * Active Directory
 * Bitwarden
 
+## §4 Collaboration with IMSA IT and Other Parties
+The Epoch Technical Team shall collaborate with members of the IMSA IT department, as well as other technical experts in the industry, to improve and expand upon these guidelines as is neccessary to remain in compliance with industry best practices. 
+
 ## Changelog
 
 1.  Adopted: February 20, 2021
 2.  Amended: March 18, 2021
+3.  Amended: December 14, 2021
