@@ -36,7 +36,10 @@ If the Epoch Staff Advisor does not grant this approval, the purchase shall not 
 
 If the Epoch Staff Advisor does grant this approval, the Epoch Staff Advisor will execute the purchase or will contact the neccessary persons to execute the purchase.
 
+All the above processes shall operate under the appropriate guidelines for IMSA co-curriculars as regulated and monitored by the appropriate IMSA departments (for example: Student Life, the Principal's office, etc.).
+
 ## Changelog
 
 1.  Adopted: December 27, 2020
 2.  Amended: December 30, 2020
+3.  Amended: December 14, 2021
