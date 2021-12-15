@@ -60,6 +60,11 @@ author:
 
 1.  Membership shall be open to all members of the IMSA community who
     have a interest in the computational and data sciences.
+    
+    1. Recruitment programs shall be created that emphasize recruitment 
+       and retention of students from culturally, linguistically, and economically
+       diverse populations, as well as historically marginalized populations 
+       in technical fields. 
 
 2.  Members must be in good standing with IMSA administration and the
     community, unless an exception is made by the Board with a
@@ -84,6 +89,9 @@ author:
     1.  While the Board is only defined as the Main Board and does not
         include Shadow Board members, the Main Board members may choose
         to involve their shadows in Board actions.
+        
+    2.  This Board should consist of members from diverse and historically 
+        marginalized backgrounds.
 
 5.  The CTO and CSO shall be affiliated with the Technical
     Division, the CRO shall be affiliated with the Relations
@@ -363,3 +371,4 @@ author:
 1.  Adopted: Aug 5, 2020
 2.  Amended: Nov 21, 2020
 3.  Amended: Mar 13, 2021
+4.  Amended: Dec 14, 2021
