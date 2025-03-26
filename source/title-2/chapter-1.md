@@ -11,7 +11,7 @@
 ## §2. Purpose of this Document
 
 1.  This document is intended to define the Epoch information
-    classification system for Epoch data and systems. Data and systems shall be defined by the Epoch Technical Team.
+    classification system for Epoch data and systems. Data and systems shall be defined by the Epoch Technical Division.
 
 ## §3. Applicability
 
@@ -28,7 +28,7 @@ These persons include, but are not limited to:
 -   Epoch Board Emeritus Members
 
 ## §4. Authority to Classify and Enforce
-The authority to classify systems into security groups, as well as enforce security policies for data or systems in each of these classification categories, is hereby granted to the Epoch Technical Team or its designee. The authority to classify data into security groups, as well as enforce security policies for each of these classification categories, is hereby granted to the leader of the Epoch team within which the data was generated or acquired.
+The authority to classify systems into security groups, as well as enforce security policies for data or systems in each of these classification categories, is hereby granted to the Epoch Technical Division or its designee. The authority to classify data into security groups, as well as enforce security policies for each of these classification categories, is hereby granted to the leader of the Epoch team within which the data was generated or acquired.
 
 
 ## Changelog
