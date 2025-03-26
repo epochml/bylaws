@@ -1,9 +1,3 @@
----
-permalink: /title-1/chapter-2
-title: Title 1, Chapter 2 - Purchasing Requirements
-author:
-- The Epoch Board of Directors
----
 # Title 1, Chapter 2 - Purchasing Requirements
 
 ## §1. Definition of Terms

@@ -1,9 +1,3 @@
----
-permalink: /technical-team/min-security-standards
-title: Minimum Security Standards
-author:
-- Epoch Technical Team
----
 # Technical Team Policies - Minimum Security Standards
 
 ## §1. Definition of Terms
