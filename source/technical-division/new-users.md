@@ -1,4 +1,4 @@
-# Technical Team Policies - Approval of New Users
+# Technical Division Policies - Approval of New Users
 
 ## §1. Definition of Terms
 
@@ -27,7 +27,7 @@ This exception shall be made on a case-to-case basis.
   The link for the usage policy may be updated as neccessary at the discretion of the CTO and/or CSO.
 * The CTO and CSO (or their designees) shall, at their sole discretion, determine whether the application is accepted or denied. 
 * If the application is denied, the reason for the denial shall be documented and provided to the applicant.
-* If the application is accepted, a member of the Epoch Technical Team shall notify the applicant and 
+* If the application is accepted, a member of the Epoch Technical Division shall notify the applicant and 
 issue the applicant's credentials.
 
 
