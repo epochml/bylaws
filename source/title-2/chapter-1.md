@@ -1,9 +1,3 @@
----
-permalink: /title-2/chapter-1
-title: Title 2, Chapter 1 - Information Security
-author:
-- The Epoch Board of Directors
----
 # Title 2, Chapter 1 - Information Security
 
 ## §1. Definition of Terms

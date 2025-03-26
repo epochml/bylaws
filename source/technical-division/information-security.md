@@ -1,9 +1,3 @@
----
-permalink: /technical-team/infosec
-title: Information Security
-author:
-- Epoch Technical Team
----
 # Technical Team Policies - Information Security
 
 ## §1. Definition of Terms

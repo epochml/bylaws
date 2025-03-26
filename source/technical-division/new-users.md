@@ -1,9 +1,3 @@
----
-permalink: /technical-team/new-users
-title: Approval of New Users
-author:
-- Epoch Technical Team
----
 # Technical Team Policies - Approval of New Users
 
 ## §1. Definition of Terms

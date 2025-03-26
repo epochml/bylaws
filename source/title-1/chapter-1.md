@@ -1,9 +1,3 @@
----
-permalink: /title-1/chapter-1
-title: Title 1, Chapter 1 - General Provisions
-author:
-- The Epoch Board of Directors
----
 # Title 1, Chapter 1 - General Provisions
 
 ## §1. Definition of Terms
