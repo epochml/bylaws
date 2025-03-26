@@ -323,26 +323,35 @@
 1.  Epoch shall seek at least one faculty advisor to provide guidance
     and direction to Epoch members and assist in resolving any disputes.
 
-2.  New advisors that are listed as Epoch advisors to administration
-    shall be added with Board approval.
+2.  The Board may add or remove advisors using a normal supermajority vote. 
+    The Board may select which advisors are considered advisors for the
+    purposes of relations with other organizations such as Student Council
+    and organizations of the administration of the Academy.
 
-3.  The Technical Division may add official Technical Advisors (which
+3.  The Technical Division may add or remove official Technical Advisors (which
     are not necessarily Epoch advisors or even within the IMSA
     community) with the consent of the CTO and CSO, shall control the
     application process for this role, and may send out invites to
     apply.
 
-4.  The Business Division may add official Business Mentors (which are
+4.  The Business Division may add or remove official Business Mentors (which are
     not necessarily Epoch advisors or even within the IMSA community)
-    with the consent of the CEO, shall control the application process
+    with the consent of the CFO, shall control the application process
     for this role, and may send out invites to apply.
 
-5.  The Board may approve official Education Advisors, responsible for
+5.  The Relations Division may add or remove official Relations Mentors (which are
+    not necessarily Epoch advisors or even within the IMSA community)
+    with the consent of the CRO, shall control the application process
+    for this role, and may send out invites to apply.
+
+6.  The Board may add or remove official Education Advisors, responsible for
     reviewing classes and their curriculum, and providing help if
     necessary.
 
-6.  If needed, the leadership of each Department may give temporary
-    supervisor roles to those who hold the proper IMSA clearances.
+7.  If needed, the leadership of each Division may give temporary
+    supervisor roles to those who hold the proper IMSA clearances. The
+    leadership of a Division may delegate this power to the leadership
+    of any subteam of that Division.
 
 ## §9. System Administrators and the Cluster
 
