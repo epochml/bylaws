@@ -15,6 +15,13 @@ author:
     excluding the changes made in RFC 8174 (both UPPERCASE and lowercase
     usage of the key words have the defined special meanings).
 
+2.  The term "SUPERMAJORITY" is defined as 60% of the allocated votes.
+    If there are no class representatives and the Vice President also holds
+    another position, this would be 5 votes, which is equal to 5 members
+    of the Board. In the case that there are board positions which are 
+    unfilled, the supermajority is 60% of the allocated votes which 
+    are allocated to filled positions.
+
 ## §2. Purpose
 
 
@@ -84,7 +91,8 @@ author:
 4.  Epoch must have a Board of Directors (\"Board\"), consisting of a
     Chief Executive Officer (CEO), a Chief Technical Officer (CTO), a
     Chief Systems Officer (CSO), a Chief
-    Relations Officer (CRO), and a Chief Financial Officer (CFO).
+    Relations Officer (CRO), a Chief Financial Officer (CFO), and a Vice 
+    President / Shadow CEO (sCEO).
 
     1.  While the Board is only defined as the Main Board and does not
         include Shadow Board members, the Main Board members may choose
@@ -92,6 +100,32 @@ author:
         
     2.  This Board should consist of members from diverse and historically 
         marginalized backgrounds.
+    
+    3.  No member of the board may hold multiple positions, except that the 
+        Vice President may hold up to 1 other position. If the Vice President
+        holds another position the role of Vice President is allocated 0 votes.
+        If the Vice President does not hold another president the CEO is 
+        allocated 0.75 vote and the Vice President is allocated 0.25 vote.
+
+    4.  If the board deems it necessary, it may include any of the following
+        as additional positions on the board, and may choose to allocate to 
+        each of the following positions either no vote, 0.25 vote, or 1 vote.
+        In any case, the following positions if they exist may additionally hold
+        another seat on the board but if they do so their role will be allocated
+        0 votes.
+
+        1.  Sophomore Representative, who must be a sophomore
+        2.  Junior Representative, who must be a junior
+        3.  Senior Representative, who must be a senior
+
+    5.  The following definitions of alternate names of Board members apply 
+        whenever the following terms are used. They have been adopted for 
+        convenience when interacting with other clubs and StudCo, which
+        prefer these terms, and for historical reasons.
+        1.  The term "President" shall be equivalent to CEO.
+        2.  The term "Vice President" shall be equivalent to Shadow CEO.
+        3.  The term "Treasurer" shall be equivalent to CFO.
+        4.  The term "Cluster team head" shall be equivalent to CTO and CSO.
 
 5.  The CTO and CSO shall be affiliated with the Technical
     Division, the CRO shall be affiliated with the Relations
@@ -102,20 +136,34 @@ author:
 6.  The officers who are affiliated with a division shall be in charge
     of leading that division.
 
-7.  Each officer on the Board must choose a Shadow by the end of the
+7.  The Sophomore, Junior, and Senior Representatives are responsible for
+    advocating for the students of their class, including those not
+    currently interested in Epoch, for reporting to the Board the views
+    of students of their class, and for advocating for the students of 
+    any classes for which representatives have not been chosen. They may
+    be affiliated with one or more divisions, and may or may not be part 
+    of that division's leadership.
+
+8.  Each officer on the Board must choose a Shadow by the end of the
     first quarter. This Shadow need not be somebody highly qualified in
     the field, but somebody who is willing to learn the necessary
     information. Enthusiasm and consistency should be rewarded.
 
     1.  Extensions may be granted by a supermajority vote of the Board.
+    2.  Shadows may be current members of the board in other positions,
+        but this is not recommended except for the Shadow CEO / Vice President
+        and the Shadow Junior and Senior Representative.
+    3.  The Sophomore Representative is not permitted to choose a Shadow,
+        as such a Shadow would have to be a freshman and IMSA does not
+        admit freshmen.
 
-8.  Shadows shall be appointed by the Board officer with the advice and
+9.  Shadows shall be appointed by the Board officer with the advice and
     consent of the full Board and the Officer's division. The Shadow CEO
     shall be chosen by the current CEO and be certified by a vote of all
     active Epoch student members. A Shadow must be a Sophomore or Junior
     when they are instated.
 
-9.  If a officer of the Board leaves Epoch (or graduates from IMSA),
+10. If a officer of the Board leaves Epoch (or graduates from IMSA),
     that officer's Shadow shall take over his/her role if the officer's
     Division provides a successful vote of confidence in the Shadow, or
     in the case of the CEO, a successful vote from all active Epoch
@@ -123,7 +171,7 @@ author:
     new member shall be chosen by the Board and the voting process shall
     repeat.
 
-10. In Epoch Board meetings, each division shall have an assigned number
+11. In Epoch Board meetings, each division shall have an assigned number
     of votes. The Technical division shall have two (2) votes, with
     each of the CTO and CSO allocated one (1) vote. The business
     team shall have one (1) vote, with the CFO allocated one (1) vote.
@@ -135,8 +183,10 @@ author:
         officer in that division shall break the tie. Extend this
         concurrently to the shadow Board of that division and finally,
         the CEO.
+    2.  See §4.4.3 and §4.4.4 for the votes of the class representatives
+        and of the Vice President
 
-11. The Board must have the funding, resources and authority appropriate
+12. The Board must have the funding, resources and authority appropriate
     to discharge its responsibilities, and shall, as it deems
     appropriate and at the expense of Epoch, engage and obtain advice
     and assistance from outside advisors.
@@ -176,7 +226,7 @@ author:
 
 3.  Project teams, subcommittees, and classes may request funds and
     materials from the Business Division. Purchase requests shall follow the 
-    policy set forth in TItle 1, Chapter 2 of the Epoch bylaws.
+    policy set forth in Title 1, Chapter 2 of the Epoch bylaws.
 
 4.  Subteams and subcommittees may operate under their own charters,
     provided that they do not conflict with this document.
@@ -186,15 +236,16 @@ author:
 
 6.  On receiving their respective charters, subteams, subcommittees and
     classes shall be considered part of no Division, but they may
-    petition to join a Division.
+    petition to join a Division, in which case the petition may be approved
+    or rejected by the Division's leadership.
 
 7.  At least once per semester, Epoch shall hold a meeting with Board,
     the heads of each subteam or subcommittee, and those responsible for
     running classes.
 
-8.  Epoch recognises pre-existing agreements with the Education through
-    Competition subteam, the Titan Scouting subteam, and the AI in
-    Medicine subteam.
+8.  As the Education through Competition subteam, the Titan Scouting subteam, 
+    and the AI in Medicine subteam no longer exist, Epoch does not recognize
+    preexisting agreements with said subteams.
 
 ## §7. Procedure and Ethics
 
@@ -218,10 +269,11 @@ author:
 
 6.  Disputes within a Division shall be handled within that Division
     based on the Division's policies. If the dispute is between two
-    members of different Division, a Board or Shadow Board officer from
-    the unaffected Division or an unaffiliated Board or Shadow Board
-    officer shall mediate. The CEO should often take this position as an
-    impartial party.
+    members of different Division, or if the dispute is within a 
+    Division and the Division is not able to handle the dispute internally,
+    a Board or Shadow Board officer from the unaffected Division or an 
+    unaffiliated Board or Shadow Board officer shall mediate. The CEO 
+    should often take this position as an impartial party.
 
 7.  Board officers may take a sabbatical (where their Shadow or another
     designated Epoch member temporarily assumes their position) or
@@ -372,3 +424,5 @@ author:
 2.  Amended: Nov 21, 2020
 3.  Amended: Mar 13, 2021
 4.  Amended: Dec 14, 2021
+5.  Amended: Mar 26, 2025
+    1.  by Board 5 (CEO Ethan Charoenpitaks, CTO Cinna Davis, all other positions unfilled)
