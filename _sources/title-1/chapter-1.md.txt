@@ -216,7 +216,7 @@
     field.
 
 3.  Project teams, subcommittees, and classes may request funds and
-    materials from the Business Division. Purchase requests shall follow the 
+    materials from the Community Division. Purchase requests shall follow the 
     policy set forth in Title 1, Chapter 2 of the Epoch bylaws.
 
 4.  Subteams and subcommittees may operate under their own charters,
@@ -325,20 +325,20 @@
     purposes of relations with other organizations such as Student Council
     and organizations of the administration of the Academy.
 
-3.  The Technical Division may add or remove official Technical Advisors (which
+3.  The Services Division may add or remove official Services Division Mentors (which are
+    not necessarily Epoch advisors or even within the IMSA community)
+    with the consent of the CFO, shall control the application process
+    for this role, and may send out invites to apply.
+
+4.  The Technical Division may add or remove official Technical Advisors (which
     are not necessarily Epoch advisors or even within the IMSA
     community) with the consent of the CTO and CSO, shall control the
     application process for this role, and may send out invites to
     apply.
 
-4.  The Business Division may add or remove official Business Mentors (which are
+5.  The Community Division may add or remove official Community Division Mentors (which are
     not necessarily Epoch advisors or even within the IMSA community)
     with the consent of the CFO, shall control the application process
-    for this role, and may send out invites to apply.
-
-5.  The Relations Division may add or remove official Relations Mentors (which are
-    not necessarily Epoch advisors or even within the IMSA community)
-    with the consent of the CRO, shall control the application process
     for this role, and may send out invites to apply.
 
 6.  The Board may add or remove official Education Advisors, responsible for
@@ -425,4 +425,7 @@
 3.  Amended: Mar 13, 2021
 4.  Amended: Dec 14, 2021
 5.  Amended: Mar 26, 2025
-    1.  by Board 5 (CEO Ethan Charoenpitaks, CTO Cinna Davis, all other positions unfilled)
+    *  by Board 5 (CEO Ethan Charoenpitaks, CTO Cinna Davis, all other positions unfilled)
+6.  Amended: Jul 12, 2025
+    *  by Board 6, see [PR#18](https://github.com/epochml/bylaws/pull/18)
+    *  This amendment changed the composition of Board 6
