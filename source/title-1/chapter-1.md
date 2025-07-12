@@ -26,18 +26,23 @@
 
 ## §3. Management Divisions
 
-1.  Epoch must consist of three Management Divisions: Technical,
-    Relations, and Business.
+1.  Epoch shall consist of three Management Divisions: Services,
+    Technical, and Community.
 
-2.  Technical Division's main purpose shall be to build, configure,
-    manage, and secure the cluster.
+2.  Services Division's main purpose shall be to:
+    1. Build, configure, manage, and secure the cluster.
+    2. Operate services on the cluster and in the cloud for educational and operational use by the other Divisions and by the IMSA community.
+    3. Train students on cluster operations.
 
-3.  Relations Division's main purpose shall be to conduct interactions
-    with other groups within IMSA, including administration and other
-    student groups.
+3.  Technical Division's main purpose shall be to:
+    1. Engage in technical projects to produce useful and impactful software, and/or to educate students undertaking said projects.
+    2. Train and educate students on software engineering, machine learning, and other topics in computing.
+    3. Provide a space for students with technical interests to collaborate, learn about new technologies, and work on individual technical problems.
 
-4.  Business Division's main purpose shall be to raise funds and to
-    conduct relations with individuals and groups outside IMSA.
+4.  Community Division's main purpose shall be to:
+    1. Conduct interactions with other groups within IMSA, including administration and other student groups.
+    2. Raise funds.
+    3. Conduct relations with individuals and groups outside IMSA.
 
 5.  Each Division must be allowed to operate with a high level of
     autonomy when working toward their goals, and must be able to adopt
@@ -83,8 +88,8 @@
         before the previous chat platform may be considered deprecated.
 
 4.  Epoch must have a Board of Directors (\"Board\"), consisting of a
-    Chief Executive Officer (CEO), a Chief Technical Officer (CTO), a
-    Chief Systems Officer (CSO), a Chief
+    Chief Executive Officer (CEO), a Chief Services Officer (CSO), a
+    Chief Technical Officer (CTO), a Chief
     Relations Officer (CRO), a Chief Financial Officer (CFO), and a Vice 
     President / Shadow CEO (sCEO).
 
@@ -119,18 +124,15 @@
         1.  The term "President" shall be equivalent to CEO.
         2.  The term "Vice President" shall be equivalent to Shadow CEO.
         3.  The term "Treasurer" shall be equivalent to CFO.
-        4.  The term "Cluster team head" shall be equivalent to CTO and CSO.
+        4.  The terms "Cluster team head" and "Cluster manager" shall be equivalent to CSO.
 
-5.  The CTO and CSO shall be affiliated with the Technical
-    Division, the CRO shall be affiliated with the Relations
-    Division, and the CFO shall be affiliated with the Business
-    Division. The CEO, as head of Epoch, must be unaffiliated with any
-    subdivision. 
+5.  The officers' roles are as follows:
+    1. The CSO shall be the head of the Services Division.
+    2. The CTO shall be the head of the Technical Division.
+    3. The CRO and CFO shall jointly lead the Community Division.
+    4. The CEO, as head of Epoch, must not be affiliated with any Division. 
 
-6.  The officers who are affiliated with a division shall be in charge
-    of leading that division.
-
-7.  The Sophomore, Junior, and Senior Representatives are responsible for
+6.  The Sophomore, Junior, and Senior Representatives are responsible for
     advocating for the students of their class, including those not
     currently interested in Epoch, for reporting to the Board the views
     of students of their class, and for advocating for the students of 
@@ -138,7 +140,7 @@
     be affiliated with one or more divisions, and may or may not be part 
     of that division's leadership.
 
-8.  Each officer on the Board must choose a Shadow by the end of the
+7.  Each officer on the Board must choose a Shadow by the end of the
     first quarter. This Shadow need not be somebody highly qualified in
     the field, but somebody who is willing to learn the necessary
     information. Enthusiasm and consistency should be rewarded.
@@ -151,13 +153,13 @@
         as such a Shadow would have to be a freshman and IMSA does not
         admit freshmen.
 
-9.  Shadows shall be appointed by the Board officer with the advice and
+8.  Shadows shall be appointed by the Board officer with the advice and
     consent of the full Board and the Officer's division. The Shadow CEO
     shall be chosen by the current CEO and be certified by a vote of all
     active Epoch student members. A Shadow must be a Sophomore or Junior
     when they are instated.
 
-10. If a officer of the Board leaves Epoch (or graduates from IMSA),
+9.  If a officer of the Board leaves Epoch (or graduates from IMSA),
     that officer's Shadow shall take over his/her role if the officer's
     Division provides a successful vote of confidence in the Shadow, or
     in the case of the CEO, a successful vote from all active Epoch
@@ -165,22 +167,17 @@
     new member shall be chosen by the Board and the voting process shall
     repeat.
 
-11. In Epoch Board meetings, each division shall have an assigned number
-    of votes. The Technical division shall have two (2) votes, with
-    each of the CTO and CSO allocated one (1) vote. The business
-    team shall have one (1) vote, with the CFO allocated one (1) vote.
-    The relations team shall have one (1) vote, with the CRO assigned one (1) vote. 
-    The CEO shall have one (1) vote. In the event that a Board position cannot be filled, 
-    the remaining votes must be split evenly among the members of the division.
+10. In Epoch Board meetings, each division shall have an assigned number
+    of votes. 
+    1.  The Services Division shall have one (1) vote assigned to the CSO.
+    2.  The Technical Division shall have one (1) vote assigned to the CTO.
+    3.  The Community Division shall have one (1) vote, with half (0.5) vote assigned to the CRO and half (0.5) vote assigned to the CFO.
+    4.  The CEO shall have one (1) vote. 
+    5.  In the event that a Board position cannot be filled, a supermajority vote of the remaining positions shall be used. It is the Board's responsibility to fill unfilled Board positions. If the Board, due to having multiple unfilled positions, cannot reach quorum, it may make majority votes to confirm new board members but may not take other actions except in emergency.
+    6.  See §4.4.3 and §4.4.4 for the votes of the class representatives
+        and of the Vice President.
 
-    1.  In the event of a tie, the decision with the vote of the senior
-        officer in that division shall break the tie. Extend this
-        concurrently to the shadow Board of that division and finally,
-        the CEO.
-    2.  See §4.4.3 and §4.4.4 for the votes of the class representatives
-        and of the Vice President
-
-12. The Board must have the funding, resources and authority appropriate
+11. The Board must have the funding, resources and authority appropriate
     to discharge its responsibilities, and shall, as it deems
     appropriate and at the expense of Epoch, engage and obtain advice
     and assistance from outside advisors.
