@@ -10,9 +10,7 @@
     usage of the key words have the defined special meanings).
 
 2.  The term "SUPERMAJORITY" is defined as 60% of the allocated votes.
-    If there are no class representatives and the Vice President also holds
-    another position, this would be 5 votes, which is equal to 5 members
-    of the Board. In the case that there are board positions which are 
+    In the case that there are board positions which are 
     unfilled, the supermajority is 60% of the allocated votes which 
     are allocated to filled positions.
 
@@ -88,57 +86,42 @@
         before the previous chat platform may be considered deprecated.
 
 4.  Epoch must have a Board of Directors (\"Board\"), consisting of a
-    Chief Executive Officer (CEO), a Chief Services Officer (CSO), a
-    Chief Technical Officer (CTO), a Chief
-    Relations Officer (CRO), a Chief Financial Officer (CFO), and a Vice 
-    President / Shadow CEO (sCEO).
+    Chief Services Officer (CSO), a Chief Technical Officer (CTO), a Chief
+    Relations Officer (CRO), a Chief Financial Officer (CFO), and any Shadows
+    with voting power.
 
     1.  While the Board is only defined as the Main Board and does not
-        include Shadow Board members, the Main Board members may choose
+        include nonvoting Shadow Board members, the Main Board members may choose
         to involve their shadows in Board actions.
         
-    2.  This Board should consist of members from diverse and historically 
-        marginalized backgrounds.
+    2.  This Board should consist of members from diverse backgrounds.
     
-    3.  No member of the board may hold multiple positions, except that the 
-        Vice President may hold up to 1 other position. If the Vice President
-        holds another position the role of Vice President is allocated 0 votes.
-        If the Vice President does not hold another president the CEO is 
-        allocated 0.75 vote and the Vice President is allocated 0.25 vote.
+    3.  No member of the board may hold multiple positions.
 
-    4.  If the board deems it necessary, it may include any of the following
+    4.  If the board deems it necessary, it may include any amount of Shadows
         as additional positions on the board, and may choose to allocate to 
-        each of the following positions either no vote, 0.25 vote, or 1 vote.
-        In any case, the following positions if they exist may additionally hold
+        each Shadow either no vote, 0.5 vote, or 1 vote.
+        In any case, said Shadows if they exist may additionally hold
         another seat on the board but if they do so their role will be allocated
         0 votes.
-
-        1.  Sophomore Representative, who must be a sophomore
-        2.  Junior Representative, who must be a junior
-        3.  Senior Representative, who must be a senior
 
     5.  The following definitions of alternate names of Board members apply 
         whenever the following terms are used. They have been adopted for 
         convenience when interacting with other clubs and StudCo, which
         prefer these terms, and for historical reasons.
-        1.  The term "President" shall be equivalent to CEO.
-        2.  The term "Vice President" shall be equivalent to Shadow CEO.
-        3.  The term "Treasurer" shall be equivalent to CFO.
-        4.  The terms "Cluster team head" and "Cluster manager" shall be equivalent to CSO.
+        1.  The CTO and CSO also hold the title of "Co-President".
+        2.  The term "Treasurer" shall be equivalent to CFO.
+        3.  The term "Flex Position 1" shall be equivalent to CRO.
+        4.  The term "Flex Position 2" shall be equivalent to Shadow CSO.
+        5.  The term "Flex Position 3" shall be equivalent to Shadow CTO.
+        6.  The terms "Cluster team head" and "Cluster manager" shall be equivalent to CSO.
 
 5.  The officers' roles are as follows:
     1. The CSO shall be the head of the Services Division.
     2. The CTO shall be the head of the Technical Division.
     3. The CRO and CFO shall jointly lead the Community Division.
-    4. The CEO, as head of Epoch, must not be affiliated with any Division. 
 
-6.  The Sophomore, Junior, and Senior Representatives are responsible for
-    advocating for the students of their class, including those not
-    currently interested in Epoch, for reporting to the Board the views
-    of students of their class, and for advocating for the students of 
-    any classes for which representatives have not been chosen. They may
-    be affiliated with one or more divisions, and may or may not be part 
-    of that division's leadership.
+6.  [removed]
 
 7.  Each officer on the Board must choose a Shadow by the end of the
     first quarter. This Shadow need not be somebody highly qualified in
@@ -147,11 +130,7 @@
 
     1.  Extensions may be granted by a supermajority vote of the Board.
     2.  Shadows may be current members of the board in other positions,
-        but this is not recommended except for the Shadow CEO / Vice President
-        and the Shadow Junior and Senior Representative.
-    3.  The Sophomore Representative is not permitted to choose a Shadow,
-        as such a Shadow would have to be a freshman and IMSA does not
-        admit freshmen.
+        but this is not recommended except for the Shadow CEO / Vice President.
 
 8.  Shadows shall be appointed by the Board officer with the advice and
     consent of the full Board and the Officer's division. The Shadow CEO
@@ -172,10 +151,8 @@
     1.  The Services Division shall have one (1) vote assigned to the CSO.
     2.  The Technical Division shall have one (1) vote assigned to the CTO.
     3.  The Community Division shall have one (1) vote, with half (0.5) vote assigned to the CRO and half (0.5) vote assigned to the CFO.
-    4.  The CEO shall have one (1) vote. 
-    5.  In the event that a Board position cannot be filled, a supermajority vote of the remaining positions shall be used. It is the Board's responsibility to fill unfilled Board positions. If the Board, due to having multiple unfilled positions, cannot reach quorum, it may make majority votes to confirm new board members but may not take other actions except in emergency.
-    6.  See §4.4.3 and §4.4.4 for the votes of the class representatives
-        and of the Vice President.
+    4.  In the event that a Board position cannot be filled, a supermajority vote of the remaining positions shall be used. It is the Board's responsibility to fill unfilled Board positions. If the Board, due to having multiple unfilled positions, cannot reach quorum, it may make majority votes to confirm new board members but may not take other actions except in emergency.
+    5.  See §4.4.3 and §4.4.4 for the votes of the Shadows.
 
 11. The Board must have the funding, resources and authority appropriate
     to discharge its responsibilities, and shall, as it deems
@@ -240,7 +217,7 @@
 
 ## §7. Procedure and Ethics
 
-1.  The CEO (or their designeee) shall chair all Board meetings.
+1.  The CTO and CSO shall jointly chair all Board meetings.
 
 2.  The supermajority of the Board members shall constitute a quorum for
     transacting official Board business. When members are unable to be
