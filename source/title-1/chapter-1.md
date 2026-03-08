@@ -406,3 +406,5 @@
 6.  Amended: Jul 12, 2025
     *  by Board 6, see [PR#18](https://github.com/epochml/bylaws/pull/18)
     *  This amendment changed the composition of Board 6
+7.  Amended: Mar 8, 2026
+    *  by Board 6, see [PR#19](https://github.com/epochml/bylaws/pull/19)
