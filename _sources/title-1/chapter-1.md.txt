@@ -17,10 +17,7 @@
 ## §2. Purpose
 
 
-1.  The purpose of Epoch is to create a student-run cluster for the
-    education of Illinois Mathematics and Science Academy (\"IMSA\")
-    students in machine learning and other computationally intensive
-    fields.
+1.  The purpose of Epoch is to provide for the education of Illinois Mathematics and Science Academy (“IMSA”) students in machine learning, computing, and other computationally intensive fields.
 
 ## §3. Management Divisions
 
@@ -330,22 +327,22 @@
 ## §9. System Administrators and the Cluster
 
 1.  As the construction of a secure student-run cluster is necessary to
-    fulfill Epoch's purpose, the Technical Division shall set up a
+    fulfill Epoch's purpose, the Services Division shall set up a
     training and certification program for cluster hardware technicians
     and system administrators (sysadmins). These training and
     certification programs shall correspond with various professional
     certifications that are issued in the IT industry.
 
-2.  The officers leading the Technical Division (CSO, CTO) shall be
+2.  The officers leading the Services Division (CSO) shall be
     assigned the role of lead sysadmin and must thus be in charge of
     holding cluster root credentials.
 
     1.  Main Board members may choose to extend this designation to
         their shadows.
 
-    2.  The Technical Division may choose to extend this designation to
-        other technical division members, contingent on the consent of a
-        supermajority of the officers leading the Technical Division.
+    2.  The Services Division may choose to extend this designation to
+        other Services Division members, contingent on the consent of a
+        supermajority of the officers leading the Services Division.
 
 3.  Head sysadmins may send out communications to whoever it may concern
     dictating current technical objectives and what is needed to fulfill
@@ -353,17 +350,17 @@
     upgrade, these communications must occur at least biweekly.
 
 4.  Head sysadmins are in charge of managing credentials, and thus may
-    certify other members of Technical Division to hold admin access to
+    certify other members of Services Division to hold admin access to
     some systems and manage their permissions.
 
 5.  Since much trust must be placed in sysadmins and they have the power
-    to cause extreme harm to Epoch in unique ways, Technical Division
+    to cause extreme harm to Epoch in unique ways, Services Division
     shall implement vetting processes of those holding admin access, and
-    both Technical Division and Board have the power to recall a system
+    both Services Division and Board have the power to recall a system
     administrator's access privileges (including a head sysadmin) with a
     formal vote.
 
-6.  Technical Division is in charge of distributing cluster access
+6.  Services Division is in charge of distributing cluster access
     credentials and managing access. While the cluster is intended to be
     open for all who need it, head sysadmins may deny a potential user
     credentials if they deem that the user poses a security or ethics
@@ -372,18 +369,18 @@
 7.  Head sysadmins may revoke credentials whenever deemed necessary.
     These revokals shall be documented.
 
-8.  Technical Division may restrict higher-risk aspects of the cluster
+8.  Services Division may restrict higher-risk aspects of the cluster
     and create systems to decide which members may gain access to those
     parts.
 
-9.  Technical Division may create policies regarding the usage of the
+9.  Services Division may create policies regarding the usage of the
     cluster.
 
-10. Technical Division may open ethics investigations as described in
+10. Services Division may open ethics investigations as described in
     Section 6 into potential misuse of the cluster or security breaches.
 
 11. The enumeration of powers within this section shall not be
-    interpreted to limit Technical Division's or its members' powers to
+    interpreted to limit Services Division's or its members' powers to
     build, configure, manage, and secure the cluster.
 
 ## §10. Adoption and Amendment
