@@ -2,9 +2,9 @@
 
 The following will be the members of **Board 7** starting on 2026-03-09.
 
-* [1 vote] **Chief Technical Officer**: Cinna Davis (co27)
+* [1 vote] **Chief Technical Officer**: Saaki Bhojanam (co27)
   * [0.5 vote] **Shadow CTO:** Sahana Vijayaraj
-* [1 vote] **Chief Services Officer**: Saaki Bhojanam (co27)
+* [1 vote] **Chief Services Officer**: Cinna Davis (co27)
   * [0.5 vote] **Shadow CSO:** Sohum Kakadiya
 * [0.5 vote] **Chief Financial Officer/Treasurer**: Krithik Senthilkumar (co27)
 * [0.5 vote] **Chief Relations Officer**: Atharv Kanchi (co27)
