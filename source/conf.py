@@ -17,11 +17,11 @@ sys.path.insert(0, os.path.abspath("./_ext"))
 # -- Project information -----------------------------------------------------
 
 project = 'Epoch bylaws'
-copyright = '2025, Epoch members'
+copyright = '2026, Epoch members'
 author = 'Epoch members'
 
 # The full version, including alpha/beta/rc tags
-release = '2025-03-26'
+release = '2026-03-08'
 html_title = 'Epoch bylaws'
 
 
